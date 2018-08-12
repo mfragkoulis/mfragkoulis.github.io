@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Marios Fragkoulis"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Marios Fragkoulis
-holds a PhD in main memory data analytics
+Marios Fragkoulis is a Postdoc researcher working on big data
+analytics and stream processing with Assis. Prof. Asterios Katsifodimos
+at the Web Information Systems group in Delft University of Technology (TUDelft).
+
+He holds a PhD in main memory data analytics
 from the Department of Management Science
 and Technology of the Athens University of Economics and Business.
 He has published in the IEEE Transactions on Computers and
