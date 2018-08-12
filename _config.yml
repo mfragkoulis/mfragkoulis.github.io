@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Marios Fragkoulis"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Marios Fragkoulis"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : mariofragkoulis
 facebook:
   username               :
   app_id                 :
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : 
+  avatar           : "mfg-small.jpg"
+  bio              : 
+  location         : "Office VBM6 W4.740 (4th floor)<br>Building 28<br>Van Mourik Broekmanweg 6<br>2628XE Delft<br>Netherlands"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.gr/citations?user=bJiiymEAAAAJ&hl=en"
+  email            : M.Fragkoulis@tudelft.nl
   uri              :
   bitbucket        :
   codepen          :
@@ -93,19 +93,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "mfragkoulis"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/marios-fragkoulis-80141a53/"
+  orcid            : "https://orcid.org/0000-0002-0160-0855"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "mariofragkoulis"
   vine             :
   weibo            :
   xing             :
