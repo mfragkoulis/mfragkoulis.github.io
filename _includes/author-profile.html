@@ -21,10 +21,6 @@
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
-    <ul class="author__urls social-icons">
-      {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
-      {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
@@ -32,13 +28,13 @@
         <li><a href="{{ author.uri }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+        <a href="mailto:{{ author.email }}"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fa fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
       {% if author.twitter %}
-        <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        <a href="https://twitter.com/{{ author.twitter }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
@@ -47,7 +43,7 @@
         <li><a href="https://plus.google.com/+{{ author.google_plus }}"><i class="fa fa-fw fa-google-plus-square" aria-hidden="true"></i> Google+</a></li>
       {% endif %}
       {% if author.linkedin %}
-        <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a></li>
+        <a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.xing %}
         <li><a href="https://www.xing.com/profile/{{ author.xing }}"><i class="fa fa-fw fa-xing-square" aria-hidden="true"></i> XING</a></li>
@@ -62,7 +58,7 @@
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fa fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
       {% endif %}
       {% if author.github %}
-        <li><a href="https://github.com/{{ author.github }}"><i class="fa fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+        <a href="https://github.com/{{ author.github }}"><i class="fa fa-fw fa-github" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fa fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
@@ -101,13 +97,19 @@
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fa fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
       {% endif %}
       {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar-square ai-fw"></i> Google Scholar</a></li>
+        <a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar-square ai-fw"></i></a>
       {% endif %}
       {% if author.orcid %}
-        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
+        <a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i></a>
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Wikipedia</a></li>
+      {% endif %}
+      <br>
+      <br>
+    <ul class="author__urls social-icons">
+      {% if author.location %}
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
     </ul>
   </div>
