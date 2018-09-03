@@ -55,12 +55,14 @@
     border-bottom: 1px solid $border-color;
   }
 
-  p, li, dl {
+  li, dl {
     font-size: 1em;
   }
 
   /* paragraph indents */
   p {
+    width: 80%;
+    font-size: $type-size-6;
     margin: 0 0 $indent-var;
 
     /* sibling indentation*/
