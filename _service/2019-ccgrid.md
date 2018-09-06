@@ -1,5 +1,5 @@
 ---
-title: "CCGrid 2019"
+title: "CCGRID'19"
 collection: service
 permalink: /service/2019-ccgrid.md
 ---
