@@ -1,0 +1,11 @@
+---
+title: "House of cards: code smells in open-source C# repositories"
+collection: publications
+permalink: /publication/2017-11-09-smells-C-sharp
+excerpt: "Background: Code smells are indicators of quality problems that make a software hard to maintain and evolve. Given the importance of smells in the source code's maintainability, many studies have explored the characteristics of smells and analyzed their effects on the software's quality. Aim: We aim to investigate fundamental characteristics of code smells through an empirical study on frequently occurring smells that examines inter-category and intra-category correlation between design and implementation smells. Method: The study mines 19 design smells and 11 implementation smells in 1988 C# repositories containing more than 49 million lines of code. The mined data are statistically analyzed using methods such as Spearman's correlation and presented through hexbin and scatter plots. Results: We find that unutilized abstraction and magic number smells are the most frequently occurring smells in C# code. Our results also show that implementation and design smells exhibit strong inter-category correlation. The results of co-occurrence analysis imply that whenever unutilized abstraction or magic number smells are found, it is very likely to find other smells from the same smell category in the project. Conclusions: Our experiment shows high average smell density (14.7 and 55.8 for design and implementation smells respectively) for open source C# programs. Such high smell densities turn a software system into a house of cards reflecting the fragility introduced in the system. Our study advocates greater awareness of smells and the adoption of regular refactoring within the developer community to avoid turning software into a house of cards."
+date: 2017-11-09
+venue: 'ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)'
+paperurl: 'https://ieeexplore.ieee.org/document/8170129/'
+citation: 'Tushar Sharma, Marios Fragkoulis, and Diomidis Spinellis. (2017). &quot;House of cards: code smells in open-source C# repositories.&quot; 2017 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM). pages: 424-429. Toronto, Canada. IEEE.'
+---
+

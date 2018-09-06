@@ -6,7 +6,6 @@ excerpt: "The Unix shell dgsh provides an expressive way to construct sophistica
 date: 2017-04-18
 venue: 'IEEE Transactions on Computers'
 paperurl: 'https://ieeexplore.ieee.org/document/7903579/'
-citation: 'Spinellis, Diomidis and Fragkoulis, Marios. (2017). &quot;Extending Unix pipelines to DAGs.&quot; <i>IEEE Transactions on Computers</i>. doi: 10.1109/TC.2017.2695447.'
+citation: 'Diomidis Spinellis and Marios Fragkoulis. (2017). &quot;Extending Unix pipelines to DAGs.&quot; IEEE Transactions on Computers. 66(9). doi: 10.1109/TC.2017.2695447.'
 ---
 
-Recommended citation: Diomidis Spinellis and Marios Fragkoulis. (2017). "Extending Unix Pipelines to DAGs" <i>IEEE Transactions on Computers</i>. 66(9).
