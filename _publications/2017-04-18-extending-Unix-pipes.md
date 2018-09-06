@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Extending Unix pipelines to DAGs"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2017-04-18-extending-Unix-pipes
+excerpt: "The Unix shell dgsh provides an expressive way to construct sophisticated and efficient non-linear pipelines. Such pipelines can use standard Unix tools, as well as third-party and custom-built components. Dgsh allows the specification of pipelines that perform non-uniform non-linear processing. These form a directed acyclic process graph, which is typically executed by multiple processor cores, thus increasing the processing task's throughput. A number of existing Unix tools have been adapted to take advantage of the new shell's multiple pipe input/output capabilities. The shell supports visualization of the process graphs, which can also aid debugging. Dgsh was evaluated through a number of common data processing and domain-specific examples, and was found to offer an expressive way to specify processing topologies, while also generally increasing processing throughput."
+date: 2017-04-18
+venue: 'IEEE Transactions on Computers'
+paperurl: 'https://ieeexplore.ieee.org/document/7903579/'
+citation: 'Spinellis, Diomidis and Fragkoulis, Marios. (2017). &quot;Extending Unix pipelines to DAGs.&quot; <i>IEEE Transactions on Computers</i>. doi: 10.1109/TC.2017.2695447.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Diomidis Spinellis and Marios Fragkoulis. (2017). "Extending Unix Pipelines to DAGs" <i>IEEE Transactions on Computers</i>. 66(9).
