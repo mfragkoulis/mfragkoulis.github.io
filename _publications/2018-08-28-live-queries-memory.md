@@ -6,7 +6,7 @@ excerpt: "Memory operations are critical to an application's reliability and per
 
 date: 2018-08-28
 venue: 'IET Software'
-paperurl:
-citation: "Marios Fragkoulis, Diomidis Spinellis, and Panos Louridas. (2017). &quot;Live interactive queries to a software application's memory profile.&quot; IET Software."
+paperurl: 'http://ietdl.org/t/uIR5q'
+citation: "Marios Fragkoulis, Diomidis Spinellis, and Panos Louridas. (2018). &quot;Live interactive queries to a software application's memory profile.&quot; IET Software."
 ---
 
