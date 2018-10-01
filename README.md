@@ -16,6 +16,10 @@ I think I've got things running smoothly and fixed some major bugs, but feel fre
 
 See more info at https://academicpages.github.io/
 
+## To build the website on specific destination path
+
+`jekyll build --source </where/the/website/source/is> --destination /path/to/destination/folder`
+
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 
 1. Clone the repository and made updates as detailed above
