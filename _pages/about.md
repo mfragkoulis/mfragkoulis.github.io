@@ -16,6 +16,6 @@ I have worked as a cloud software engineer at [GRNET](https://grnet.gr) and as a
 
 ### News
 
-- August 2018: The paper "Live interactive queries to a software application's memory profile" has been accepted for publication in the IET Software journal.
+- August 2018: The paper ["Live interactive queries to a software application's memory profile"](http://ietdl.org/t/uIR5q) has been accepted for publication in the IET Software journal.
 
-- July 2018: I serve as a program committee member of [CCGRID 2019 (19th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing)](https://www.ccgrid2019.org), which will be held in Larnaca, Cyprus on 14 May 2019.
+- July 2018: I serve as a program committee member of [CCGRID 2019 (19th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing)](https://www.ccgrid2019.org), which will be held in Larnaca, Cyprus on 14-17 May 2019.
