@@ -1,0 +1,14 @@
+---
+title: "Operational stream processing: towards scalable and consistent event-driven applications"
+collection: publications
+permalink: /publication/2019-03-27-operational-streaming.md
+excerpt: "In the last decade we are witnessing a widespread adoption of architectural styles such as microservices, for building event- driven software applications and deploying them in cloud infras- tructures. Such services favor the separation of a database into independent silos of data, each of which is owned entirely by a single service. As a result, traditional oltp systems no longer fit the architectural picture and developers often turn to ad-hoc solutions that rarely support acid transaction consistency.
+At the same time, we are witnessing the gradual maturation of distributed streaming dataflow systems. These systems nowadays have departed from the mere analysis of streaming windows and complex-event processing, employing sophisticated methods for managing state, keeping it consistent, and ensuring exactly-once processing guarantees in the presence of failures.
+The goal of this paper is threefold. First, we illustrate the requirements of stateful software services in terms of consistency and scalability. Second, we present how well existing solutions meet those requirements. Finally, we outline a set of challenging problems and propose research directions for enabling event- driven applications to be developed on top of streaming dataflow systems. We strongly believe that streaming dataflows can have a central place in service-oriented architectures, taking over the execution of acid transactions, ensuring message delivery and processing, in order to perform scalable execution of services."
+
+date: 2019-03-27
+venue: 'EDBT 2019'
+paperurl: 'https://openproceedings.org/2019/conf/edbt/EDBT19_paper_317.pdf'
+citation: "Asterios Katsifodimos and Marios Fragkoulis. (2019). &quot;Operational stream processing: towards scalable and consistent event-driven applications.&quot; EDBT'19."
+---
+
