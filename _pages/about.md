@@ -16,7 +16,7 @@ I have worked as a cloud software engineer at [GRNET](https://grnet.gr) and as a
 
 ### News
 
-- May 2019: Our demo paper "Stateful functions as a service in action" has been accepted for publication in VLDB 2019."
+- May 2019: Our demo paper "Stateful functions as a service in action" ([pdf](http://asterios.katsifodimos.com/assets/publications/stateful-functions.pdf)) will be presented in VLDB 2019.
 
 - May 2019: I serve as a program committee member of [CIKM 2019 (28th ACM International Conference on Information and Knowledge Management)](http://www.cikm2019.net), which will be held in Beijing, China on November 3-7 2019.
 

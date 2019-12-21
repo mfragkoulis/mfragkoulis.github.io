@@ -1,0 +1,12 @@
+---
+title: "Stateful functions as a service in action"
+collection: publications
+permalink: /publication/2019-08-31-statful-functions.md
+excerpt: "In the serverless model, users upload application code to a cloud platform and the cloud provider undertakes the deployment, execution and scaling of the application, relieving users from all operational aspects. Although very popular, current serverless offerings offer poor support for the management of local application state, the main reason being that managing state and keeping it consistent at large scale is very challenging. As a result, the serverless model is inadequate for executing stateful, latency-sensitive applications. In this paper we present a high-level programming model for developing stateful functions and deploying them in the cloud. Our programming model allows functions to retain state as well as call other functions. In order to deploy stateful functions in a cloud infrastructure, we translate functions and their data exchanges into a stateful dataflow graph. With this paper we aim at demonstrating that using a modified version of an open-source dataflow engine as a runtime for stateful functions, we can deploy scalable and stateful services in the cloud with surprisingly low latency and high throughput."
+
+date: 2019-08-31
+venue: 'VLDB (demo paper)'
+paperurl: 'http://asterios.katsifodimos.com/assets/publications/stateful-functions.pdf'
+citation: "Adil Akhter, Marios Fragkoulis, and Asterios Katsifodimos. 2019. Stateful functions as a service in action. Proc. VLDB Endow. 12, 12 (August 2019), 1890-1893. DOI: https://doi.org/10.14778/3352063.3352092."
+---
+
