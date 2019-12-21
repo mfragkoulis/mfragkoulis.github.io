@@ -16,6 +16,8 @@ I have worked as a cloud software engineer at [GRNET](https://grnet.gr) and as a
 
 ### News
 
+- Octotber 2019: I serve as a program committee member of [SEAA 2020 Software Analytics: Mining Software Open Datasets and Repositories (STREAM)](https://dsd-seaa2020.um.si/seaa/STREAM.html?sec=sessions_stream), which will be held in Portoroz, Slovenia on 26-28 August 2020.
+
 - October 2019: We will present our work "Deploying Stateful Functions as a Service (FaaS) on Streaming Dataflows" in Flink Forward 2019 in Berlin ([video](https://www.youtube.com/watch?v=wKfzDPkbAao)).
 
 - May 2019: Our demo paper "Stateful functions as a service in action" ([pdf](http://asterios.katsifodimos.com/assets/publications/stateful-functions.pdf)) will be presented in VLDB 2019.
