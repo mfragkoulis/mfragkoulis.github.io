@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a Postdoc researcher working on stream processing and big data analytics with Assis. Prof. [Asterios Katsifodimos](http://asterios.katsifodimos.com) at the [Web Information Systems](http://wis.ewi.tudelft.nl) group in [Delft University of Technology (TUDelft)](http://tudelft.nl).
+Hi! I'm a Postdoc researcher working on scalable stream processing and data integration with Assis. Prof. [Asterios Katsifodimos](http://asterios.katsifodimos.com) at the [Web Information Systems](http://wis.ewi.tudelft.nl) group in [Delft University of Technology (TUDelft)](http://tudelft.nl).
 
 I have a PhD in main memory data analytics from the Department of Management Science and Technology of the [Athens University of Economics and Business](http://aueb.gr) supervised by Prof. [Diomidis Spinellis](https://www.spinellis.gr). Before that I received an MSc with distinction in Computer Science from the Department of Computing of the [Imperial College London](http://imperial.ac.uk), and a BSc also from the Department of Management Science and Technology of the Athens University of Economics and Business.
 
@@ -16,7 +16,7 @@ I have worked as a cloud software engineer at [GRNET](https://grnet.gr) and as a
 
 ### News
 
-- Octotber 2019: I serve as a program committee member of [SEAA 2020 Software Analytics: Mining Software Open Datasets and Repositories (STREAM)](https://dsd-seaa2020.um.si/seaa/STREAM.html?sec=sessions_stream), which will be held in Portoroz, Slovenia on 26-28 August 2020.
+- October 2019: I serve as a program committee member of [SEAA 2020 Software Analytics: Mining Software Open Datasets and Repositories (STREAM)](https://dsd-seaa2020.um.si/seaa/STREAM.html?sec=sessions_stream), which will be held in Portoroz, Slovenia on 26-28 August 2020.
 
 - October 2019: We will present our work "Deploying Stateful Functions as a Service (FaaS) on Streaming Dataflows" in Flink Forward 2019 in Berlin ([video](https://www.youtube.com/watch?v=wKfzDPkbAao)).
 
