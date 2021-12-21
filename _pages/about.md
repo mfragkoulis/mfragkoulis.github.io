@@ -8,13 +8,40 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a Postdoc researcher working on scalable stream processing and data integration with Assis. Prof. [Asterios Katsifodimos](http://asterios.katsifodimos.com) at the [Web Information Systems](http://wis.ewi.tudelft.nl) group in [Delft University of Technology (TUDelft)](http://tudelft.nl).
+I'm Assistant Professor in Distributed Systems at the [Department of Computer Science and Engineering](https://www.cs.uoi.gr/?lang=en) of the University of Ioannina.
+Previously I worked as a Postdoc researcher on scalable stream processing and data integration with Assis. Prof. [Asterios Katsifodimos](http://asterios.katsifodimos.com) at the [Web Information Systems](http://wis.ewi.tudelft.nl) group in [Delft University of Technology (TUDelft)](http://tudelft.nl).
 
 I have a PhD in main memory data analytics from the Department of Management Science and Technology of the [Athens University of Economics and Business](http://aueb.gr) supervised by Prof. [Diomidis Spinellis](https://www.spinellis.gr). Before that I received an MSc with distinction in Computer Science from the Department of Computing of the [Imperial College London](http://imperial.ac.uk), and a BSc also from the Department of Management Science and Technology of the Athens University of Economics and Business.
 
 I have worked as a cloud software engineer at [GRNET](https://grnet.gr) and as a software engineer at [COSMOTE](https://www.cosmote.gr) where I built and operated big data workflows.
 
 ### News
+
+- December 2021: I serve as a program committee member of ACM DEBS 2022 research track.
+
+- July 2021: Our paper "Distributed Transactions on Serverless Stateful Functions" received the Best Paper Award at DEBS 2021.
+
+- June 2021: I serve as a program committee member of ICDE 2022 research track.
+
+- May 2021: We will present our demo paper "Valentine in Action: Matching Tabular Data at Scale" in VLDB 2021.
+
+- May 2021: We will present our research paper "Distributed Transactions on Serverless Stateful Functions" in DEBS 2021.
+
+- April 2021: We will present our industrial track paper "Hazelcast Jet: Low-Latency Stream Processing at the 99.99th Percentile" in VLDB 2021. You can read it in [arxiv](https://arxiv.org/abs/2103.10169).
+
+- March 2021: We will present our research paper "Clonos: Consistent Causal Recovery for Highly-Available Streaming Dataflows" in SIGMOD 2021. [Clonos is available online](https://delftdata.github.io/clonos-web/).
+
+- December 2020: We will present our research paper "Valentine: Evaluating Matching Techniques for Dataset Discovery" in ICDE 2021. Learn more about the [Valentine project](https://delftdata.github.io/valentine/).
+
+- August 2020: "A Survey on the Evolution of Stream Processing Systems" is available to read in [arxiv](https://arxiv.org/abs/2008.00842).
+
+- February 2020: We will present our tutorial "Beyond analytics: The Evolution of Stream Processing Systems" in SIGMOD 2020. The [tutorial's website](https://streaming-research.github.io/Tutorial-SIGMOD-2020/) contains links to the slides and recordings.
+
+- January 2020: We will present our short paper on "REMA: graph embeddings-based relational schema matching" in the SEAdata workshop of EDBT 2020 to be held in Copenhagen between 30 March - 2 April 2020.
+
+- January 2020: I serve as a program committee member of [SSDBM 2020: 32nd
+International Conference on Scientific and Statistical Database
+Management](http://ssdbm.org/2020/), which will be held in Vienna, Austria on 7-9 July 2020.
 
 - October 2019: I serve as a program committee member of [SEAA 2020 Software Analytics: Mining Software Open Datasets and Repositories (STREAM)](https://dsd-seaa2020.um.si/seaa/STREAM.html?sec=sessions_stream), which will be held in Portoroz, Slovenia on 26-28 August 2020.
 

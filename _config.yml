@@ -82,7 +82,7 @@ author:
   name             : 
   avatar           : "mfg.jpg"
   bio              : 
-  location         : "Office VBM6 W4.740 (4th floor)<br>Building 28<br>Van Mourik Broekmanweg 6<br>2628XE Delft<br>Netherlands"
+  location         : "Office A32 (1st floor)<br>Dep. of Computer Science & Engineering<br>45110 Ioannina<br>Greece"
   employer         :
   googlescholar    : "https://scholar.google.gr/citations?user=bJiiymEAAAAJ&hl=en"
   email            : M.Fragkoulis@tudelft.nl
@@ -109,7 +109,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : # "https://www.youtube.com/channel/UCfwhdLwIfWCj1IikJmSaSzw/featured"
   wikipedia        :
 
 
