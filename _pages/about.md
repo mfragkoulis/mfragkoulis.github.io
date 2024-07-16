@@ -8,16 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior research scientist in Delivery Hero SE.
+I'm in the academic job market.
 
-Previously, I held an assistant professor position in Distributed Systems at the [Department of Computer Science and Engineering](https://www.cs.uoi.gr/?lang=en) of the University of Ioannina in Greece.
+Previously, I was a senior research scientist in [Delivery Hero SE](https://www.deliveryhero.com) heading a team of research engineers. Before that, I held an assistant professor position in Distributed Systems at the [Department of Computer Science and Engineering](https://www.cs.uoi.gr/?lang=en) of the University of Ioannina in Greece.
 Prior to that I worked as a Postdoc researcher on scalable stream processing and data integration with Assis. Prof. [Asterios Katsifodimos](http://asterios.katsifodimos.com) at the [Web Information Systems](http://wis.ewi.tudelft.nl) group in [Delft University of Technology (TUDelft)](http://tudelft.nl).
 
-I have a PhD in main memory data analytics from the Department of Management Science and Technology of the [Athens University of Economics and Business](http://aueb.gr) supervised by Prof. [Diomidis Spinellis](https://www.spinellis.gr). Before that I received an MSc with distinction in Computer Science from the Department of Computing of the [Imperial College London](http://imperial.ac.uk), and a BSc also from the Department of Management Science and Technology of the Athens University of Economics and Business.
+I hold a PhD in main memory data analytics from the Department of Management Science and Technology of the [Athens University of Economics and Business](http://aueb.gr) supervised by Prof. [Diomidis Spinellis](https://www.spinellis.gr). Before that I received an MSc with distinction in Computer Science from the Department of Computing of the [Imperial College London](http://imperial.ac.uk), and a BSc also from the Department of Management Science and Technology of the Athens University of Economics and Business.
 
-I have worked as a cloud software engineer at [GRNET](https://grnet.gr) and as a software engineer at [COSMOTE](https://www.cosmote.gr) where I built and operated big data workflows.
+I have worked as a technical advisor in [Hazelcast Inc.](https://hazelcast.com) (Silicon Valley, U.S.), as a cloud software engineer at [GRNET](https://grnet.gr), and as a software engineer at [COSMOTE](https://www.cosmote.gr) where I built and operated big data workflows.
 
 ### News
+
+
+- April 2024: Our paper "CheckMate: Evaluating checkpointing protocols for streaming dataflows" will be presented at ICDE 2024.
+
+- February 2024: Our paper "A survey on the evolution of stream processing systems" has been accepted for publication in VLDBJ.
+
+- January 2023: Our paper "Stateful entities: Object-oriented applications as distributed dataflows" will appear as an abstract in CIDR 2023.
+
+- April 2022: Our paper "Distributed transactions on serverless stateful functions" received the best paper award at DEBS 2022.
 
 - April 2022: Our paper "Join path-based data augmentations for decision trees" will be presented at the DBML workshop of ICDE 2022.
 
