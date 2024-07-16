@@ -6,16 +6,16 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-theme                    : jekyll-theme-minimal
+#theme                    : jekyll-theme-minimal
 locale                   : "en-US"
 title                    : "Marios Fragkoulis"
 title_separator          : "-"
 name                     : &name "Marios Fragkoulis"
 description              : &description "personal description"
-domain                   : "mariosfragkoulis.github.io"
-url                      : "https://mariosfragkoulis.github.io" #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+domain                   : "mfragkoulis.github.io"
+url                      : "https://mfragkoulis.github.io" #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mfragkoulis/academicpages.github.io"
+repository               : "mfragkoulis/mfragkoulis.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
