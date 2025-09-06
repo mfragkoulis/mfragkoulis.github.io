@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm in the academic job market.
+I'm a principal research scientist at Huawei Research working on data and AI systems.
 
 Previously, I was a senior research scientist in [Delivery Hero SE](https://www.deliveryhero.com) heading a team of research engineers. Before that, I held an assistant professor position in Distributed Systems at the [Department of Computer Science and Engineering](https://www.cs.uoi.gr/?lang=en) of the University of Ioannina in Greece.
 Prior to that I worked as a Postdoc researcher on scalable stream processing and data integration with Assis. Prof. [Asterios Katsifodimos](http://asterios.katsifodimos.com) at the [Web Information Systems](http://wis.ewi.tudelft.nl) group in [Delft University of Technology (TUDelft)](http://tudelft.nl).
